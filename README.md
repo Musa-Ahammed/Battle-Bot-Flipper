@@ -1,6 +1,7 @@
 # Battle Bot – Flipper
 
 A radio-controlled battle robot with four-wheel differential steering, a 24 V drive system, and a reversible automotive wiper motor for the flipper. This repository contains the control sketch, electronics images, parts list, and testing notes.
+<img width="1030" height="686" alt="Battle Bot" src="https://github.com/user-attachments/assets/037a008b-7202-4523-b5c9-1ef5d0ea0a02" />
 
 ## How it works
 
